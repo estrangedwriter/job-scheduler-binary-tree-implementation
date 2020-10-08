@@ -8,5 +8,8 @@
 
 ### 3. run the following command in the terminal
 
- > python3 (main.py)
+ > python3 job_scheduler.py
 
+
+
+![screenshot](https://github.com/estrangedwriter/job-scheduler-binary-tree-implementation/blob/main/job_scheduler.png)
